@@ -1,4 +1,12 @@
-### Hi there 👋
+### Welcome to my personal GitHub repository.
+
+I'm (Seyed Ali Ahmadi) a PhD student in Remote Sensing at K.N.Toosi University of Technology, Tehran, Iran (:iran:).
+
+- :computer: I’m currently working on my PhD thesis which is about using artificial intelligence and very high resolution satellite images to assess the damage of buildings after natural disasters.
+- :books: 🌱 I’m currently learning to optimize deep learning algorithms for remote sensing applications such as super resolution, classification, semantic segmentation, object detection and satellite image debluring.
+- 📫 How to reach me: You can always contact me through my email :email: :postbox: cpt.ahmadisnipiol@yahoo.com
+- :blue_heart: My interests are remote sensing :earth_americas:, machine learning :game_die:, and data science :chart_with_upwards_trend: :bar_chart:
+- 😄 More information about me at my LinkedIn account https://www.linkedin.com/in/saliahmadi93/
 
 <!--
 **Seyed-Ali-Ahmadi/Seyed-Ali-Ahmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
