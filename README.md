@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/53389122/124669529-c763d980-dec7-11eb-824f-e6f0e1622b62.png" height="320" /> <img src="https://user-images.githubusercontent.com/53389122/124669613-ef533d00-dec7-11eb-8bc0-ba3b09057bb2.png" height="320" /> <img src="https://user-images.githubusercontent.com/53389122/124669571-dcd90380-dec7-11eb-9d16-7377d7c68923.png" height="320" />
+<img src="https://user-images.githubusercontent.com/53389122/124669529-c763d980-dec7-11eb-824f-e6f0e1622b62.png" height="220" /> <img src="https://user-images.githubusercontent.com/53389122/124669613-ef533d00-dec7-11eb-8bc0-ba3b09057bb2.png" height="220" /> <img src="https://user-images.githubusercontent.com/53389122/124669571-dcd90380-dec7-11eb-9d16-7377d7c68923.png" height="220" />
 
 ### Welcome to my personal GitHub repository.
 
