@@ -39,6 +39,9 @@
 
 <br />
 <br />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seyed-Ali-Ahmadi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 
 <img src="https://user-images.githubusercontent.com/53389122/124669148-29700f00-dec7-11eb-9098-9862627e1f99.png" width="1000"/>
