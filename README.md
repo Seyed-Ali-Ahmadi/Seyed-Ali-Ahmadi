@@ -68,4 +68,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://youtu.be/ECuqb5Tv9qI
+https://github.com/anuraghazra/github-readme-stats
+https://github.com/codeSTACKr/codeSTACKr
+
 -->
