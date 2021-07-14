@@ -28,8 +28,14 @@
 ### Languages and Tools:
 
 <img align="left" alt="GitHub" width="100px" src="https://user-images.githubusercontent.com/53389122/125599236-c96f4e7b-d2a8-4309-a003-d9ab1e99b796.png" />
-<img align="left" alt="GitHub" width="50px" src="https://user-images.githubusercontent.com/53389122/125599507-1d6fd9ab-7adc-4e8c-ae04-e6998e70b304.png" />
-
+<img align="left" alt="Python" width="50px" src="https://user-images.githubusercontent.com/53389122/125599507-1d6fd9ab-7adc-4e8c-ae04-e6998e70b304.png" />
+<img align="left" alt="PyCharm" width="50px" src="https://user-images.githubusercontent.com/53389122/125599718-a236e4cb-2631-400c-8c4f-f95958c3b1d7.png" />
+<img align="left" alt="MATLAB" width="50px" src="https://user-images.githubusercontent.com/53389122/125599812-ddb13cb9-a3c3-445f-920e-b91ab2562f74.png" />
+<img align="left" alt="Slack" width="150px" src="https://user-images.githubusercontent.com/53389122/125599975-a3720d6a-c29f-4b7f-950e-8e0535b7c878.png" />
+<img align="left" alt="GoogleEarth" width="100px" src="https://user-images.githubusercontent.com/53389122/125600159-7621d1a7-cb41-4b73-8fa5-7916a6d3acef.png" />
+<img align="left" alt="GoogleEarthEngine" width="65px" src="https://user-images.githubusercontent.com/53389122/125600552-bf354638-51b2-44d6-86c6-34dae4b9e158.png" />
+<img align="left" alt="QGIS" width="50px" src="https://user-images.githubusercontent.com/53389122/125600303-43253d93-36b5-4af4-9539-22e1759b95d8.png" />
+<img align="left" alt="ENVI" width="150px" src="https://user-images.githubusercontent.com/53389122/125601396-4b3bd923-e384-4fa3-b322-0be8560efd6d.png" />
 
 <br />
 <br />
