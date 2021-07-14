@@ -12,11 +12,25 @@
 
 - :blue_heart: My interests are remote sensing :earth_americas:, machine learning :game_die:, and data science :chart_with_upwards_trend: :bar_chart:
 
+- 🥅 2021 Goals: Contribute more to Open Source projects and add more tutorials
+
+- ⚡ Fun fact: I love astronomy :telescope:, playing violin :violin:, hiking :sunrise_over_mountains:, and cycling :bicyclist:
+
+### Connect with me:
+
+[<img align="left" alt="earthobserv.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+
 - 😄 More information about me at my LinkedIn account https://www.linkedin.com/in/saliahmadi93/
 
 
 <img src="https://user-images.githubusercontent.com/53389122/124669148-29700f00-dec7-11eb-9098-9862627e1f99.png" width="1000"/>
 
+
+[website]: https://earthobserv.com
+[youtube]: https://www.youtube.com/channel/UCSe_rbMLxGlSX3high1zIVA
+[linkedin]: https://www.linkedin.com/in/saliahmadi93/
 
 
 
