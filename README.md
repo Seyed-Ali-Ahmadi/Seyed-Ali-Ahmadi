@@ -18,15 +18,26 @@
 
 ### Connect with me:
 
+- 😄 More information about me at my LinkedIn account https://www.linkedin.com/in/saliahmadi93/
+
 [<img align="left" alt="earthobserv.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
+<br />
 
-- 😄 More information about me at my LinkedIn account https://www.linkedin.com/in/saliahmadi93/
+### Languages and Tools:
 
+<img align="left" alt="GitHub" width="100px" src="https://user-images.githubusercontent.com/53389122/125599236-c96f4e7b-d2a8-4309-a003-d9ab1e99b796.png" />
+<img align="left" alt="GitHub" width="50px" src="https://user-images.githubusercontent.com/53389122/125599507-1d6fd9ab-7adc-4e8c-ae04-e6998e70b304.png" />
+
+
+<br />
+<br />
+<br />
 
 <img src="https://user-images.githubusercontent.com/53389122/124669148-29700f00-dec7-11eb-9098-9862627e1f99.png" width="1000"/>
 
+<br />
 
 [website]: https://earthobserv.com
 [youtube]: https://www.youtube.com/channel/UCSe_rbMLxGlSX3high1zIVA
