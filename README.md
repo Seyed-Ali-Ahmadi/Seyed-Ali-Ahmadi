@@ -4,7 +4,7 @@
 
 ### I'm (Seyed Ali Ahmadi) a ***PhD student*** in Remote Sensing at ***K.N.Toosi University of Technology***, Tehran, Iran (:iran:).
 
-- :computer: I’m currently working on my PhD thesis which is about using artificial intelligence and very high resolution satellite images to assess the *damage of buildings* after natural disasters. Moreover, I'm working on some side projects such as, **Earth Observation Satellites Calibration**, and **Urban Subcidence Monitoring with InSAR**.
+- :computer: I’m currently working on my PhD thesis which is about using artificial intelligence and very high resolution satellite images to assess the *damage of buildings* after natural disasters. Moreover, I'm working on some side projects such as, **Earth Observation Satellites Calibration**, and **Urban Subsidence Monitoring with InSAR**.
 
 - :books: 🌱 I’m currently learning to optimize deep learning algorithms for remote sensing applications such as super resolution, classification, semantic segmentation, object detection and satellite image debluring.
 
