@@ -12,7 +12,7 @@
 
 - :blue_heart: My interests are remote sensing :earth_americas:, machine learning :game_die:, and data science :chart_with_upwards_trend: :bar_chart:
 
-- 🥅 2021 Goals: Contribute more to Open Source projects and add more tutorials
+- 🥅 Goals: Commercialize some interesting remote sensing applications
 
 - ⚡ Fun fact: I love astronomy :telescope:, playing violin :violin:, hiking :sunrise_over_mountains:, and cycling :bicyclist:
 
